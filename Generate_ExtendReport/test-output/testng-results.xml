@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52857" started-at="2022-09-09T12:12:59 IST" finished-at="2022-09-09T12:13:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52857" started-at="2022-09-09T12:12:59 IST" finished-at="2022-09-09T12:13:52 IST">
+      <class name="ExtendReport_Demo.NopCommerceTest">
+        <test-method status="PASS" signature="setExtent()[pri:0, instance:ExtendReport_Demo.NopCommerceTest@1d415d9]" name="setExtent" is-config="true" duration-ms="387" started-at="2022-09-09T12:12:59 IST" finished-at="2022-09-09T12:12:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:ExtendReport_Demo.NopCommerceTest@1d415d9]" name="setup" is-config="true" duration-ms="30448" started-at="2022-09-09T12:12:59 IST" finished-at="2022-09-09T12:13:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="noCommerceLoginTest()[pri:0, instance:ExtendReport_Demo.NopCommerceTest@1d415d9]" name="noCommerceLoginTest" duration-ms="356" started-at="2022-09-09T12:13:30 IST" finished-at="2022-09-09T12:13:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noCommerceLoginTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:ExtendReport_Demo.NopCommerceTest@1d415d9]" name="tearDown" is-config="true" duration-ms="991" started-at="2022-09-09T12:13:30 IST" finished-at="2022-09-09T12:13:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=noCommerceLoginTest status=SUCCESS method=NopCommerceTest.noCommerceLoginTest()[pri:0, instance:ExtendReport_Demo.NopCommerceTest@1d415d9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:ExtendReport_Demo.NopCommerceTest@1d415d9]" name="setup" is-config="true" duration-ms="10792" started-at="2022-09-09T12:13:31 IST" finished-at="2022-09-09T12:13:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="noCommerceLogoTest()[pri:0, instance:ExtendReport_Demo.NopCommerceTest@1d415d9]" name="noCommerceLogoTest" duration-ms="66" started-at="2022-09-09T12:13:42 IST" finished-at="2022-09-09T12:13:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noCommerceLogoTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:ExtendReport_Demo.NopCommerceTest@1d415d9]" name="tearDown" is-config="true" duration-ms="669" started-at="2022-09-09T12:13:42 IST" finished-at="2022-09-09T12:13:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=noCommerceLogoTest status=SUCCESS method=NopCommerceTest.noCommerceLogoTest()[pri:0, instance:ExtendReport_Demo.NopCommerceTest@1d415d9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:ExtendReport_Demo.NopCommerceTest@1d415d9]" name="setup" is-config="true" duration-ms="7694" started-at="2022-09-09T12:13:43 IST" finished-at="2022-09-09T12:13:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="noCommerceTitleTest()[pri:0, instance:ExtendReport_Demo.NopCommerceTest@1d415d9]" name="noCommerceTitleTest" duration-ms="30" started-at="2022-09-09T12:13:50 IST" finished-at="2022-09-09T12:13:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noCommerceTitleTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:ExtendReport_Demo.NopCommerceTest@1d415d9]" name="tearDown" is-config="true" duration-ms="706" started-at="2022-09-09T12:13:50 IST" finished-at="2022-09-09T12:13:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=noCommerceTitleTest status=SUCCESS method=NopCommerceTest.noCommerceTitleTest()[pri:0, instance:ExtendReport_Demo.NopCommerceTest@1d415d9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:ExtendReport_Demo.NopCommerceTest@1d415d9]" name="endReport" is-config="true" duration-ms="666" started-at="2022-09-09T12:13:51 IST" finished-at="2022-09-09T12:13:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- ExtendReport_Demo.NopCommerceTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
