@@ -1,0 +1,10 @@
+com\OrangeHRM\Testcases\Basetest.class
+com\OrangeHRM\utilities\ReadConfig.class
+com\OrangeHRM\Testcases\TC_loginDDT_002.class
+com\OrangeHRM\utilities\XLUtils.class
+com\OrangeHRM\utilities\Reporting.class
+com\OrangeHRM\pageObjects\LoginPage.class
+com\OrangeHRM\Testcases\TC_AddUser.class
+com\OrangeHRM\Testcases\TestListenerAdapter.class
+com\OrangeHRM\pageObjects\AddUserPage.class
+com\OrangeHRM\Testcases\TC_LoginTest_001.class
